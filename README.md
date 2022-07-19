@@ -1,0 +1,2 @@
+# FinanceBot
+Python Finance Bot
